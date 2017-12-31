@@ -36,9 +36,6 @@ def won?(board)
 end
 
 
-
-end
-
 def full?(board)
   !board.include?(" ")
 end
